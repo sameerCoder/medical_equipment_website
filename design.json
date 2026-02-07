@@ -27,7 +27,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"assets/1721601085895-ordinary-life-scene-from-mall-america_201.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 600px;\" title=\"image\" width=\"600\"></div>",
+                  "text": "<div class=\"unlayer2be\"><img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/medical-equipment-discounts/assets/1721601085895-ordinary-life-scene-from-mall-america_201.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 600px;\" title=\"image\" width=\"600\"></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -58,7 +58,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/1721601085895-ordinary-life-scene-from-mall-america_201.png",
+                    "url": "/static/templates/medical-equipment-discounts/assets/1721601085895-ordinary-life-scene-from-mall-america_201.png",
                     "width": 600,
                     "height": "auto"
                   }
@@ -459,7 +459,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_4\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"assets/1721601372191-Group_203.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 180px;\" title=\"image\" width=\"180\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_4\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/medical-equipment-discounts/assets/1721601372191-Group_203.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 180px;\" title=\"image\" width=\"180\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -490,7 +490,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/1721601372191-Group_203.png",
+                    "url": "/static/templates/medical-equipment-discounts/assets/1721601372191-Group_203.png",
                     "width": 180,
                     "height": "auto"
                   }
@@ -676,7 +676,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_5\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 20px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"assets/1721601535665-Group_204.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 180px;\" title=\"image\" width=\"180\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_5\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 20px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/medical-equipment-discounts/assets/1721601535665-Group_204.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 180px;\" title=\"image\" width=\"180\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -707,7 +707,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/1721601535665-Group_204.png",
+                    "url": "/static/templates/medical-equipment-discounts/assets/1721601535665-Group_204.png",
                     "width": 180,
                     "height": "auto"
                   }
@@ -893,7 +893,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_3\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"assets/1721601538985-Group_205.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 180px;\" title=\"image\" width=\"180\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_3\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/medical-equipment-discounts/assets/1721601538985-Group_205.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 180px;\" title=\"image\" width=\"180\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -924,7 +924,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/1721601538985-Group_205.png",
+                    "url": "/static/templates/medical-equipment-discounts/assets/1721601538985-Group_205.png",
                     "width": 180,
                     "height": "auto"
                   }
@@ -1327,7 +1327,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"assets/1721601770132-Group_206.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 357.02px;\" title=\"image\" width=\"357.02\"></div>",
+                  "text": "<div class=\"unlayer2be\"><img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/medical-equipment-discounts/assets/1721601770132-Group_206.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 357.02px;\" title=\"image\" width=\"357.02\"></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -1358,7 +1358,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/1721601770132-Group_206.png",
+                    "url": "/static/templates/medical-equipment-discounts/assets/1721601770132-Group_206.png",
                     "width": 357,
                     "height": "auto"
                   }
@@ -1434,7 +1434,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:5px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"assets/1721601793311-Group_207.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 222.98px;\" title=\"image\" width=\"222.98\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:5px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/medical-equipment-discounts/assets/1721601793311-Group_207.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 222.98px;\" title=\"image\" width=\"222.98\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -1465,7 +1465,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/1721601793311-Group_207.png",
+                    "url": "/static/templates/medical-equipment-discounts/assets/1721601793311-Group_207.png",
                     "width": 222,
                     "height": "auto"
                   }
@@ -1490,7 +1490,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:4px 5px 0px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"assets/1721601814452-Group_208.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 222.98px;\" title=\"image\" width=\"222.98\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:4px 5px 0px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/medical-equipment-discounts/assets/1721601814452-Group_208.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 222.98px;\" title=\"image\" width=\"222.98\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -1521,7 +1521,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/1721601814452-Group_208.png",
+                    "url": "/static/templates/medical-equipment-discounts/assets/1721601814452-Group_208.png",
                     "width": 222,
                     "height": "auto"
                   }
@@ -1759,7 +1759,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"assets/1721602189623-Group_201.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 180px;\" title=\"image\" width=\"180\"></div>",
+                  "text": "<div class=\"unlayer2be\"><img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/medical-equipment-discounts/assets/1721602189623-Group_201.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 180px;\" title=\"image\" width=\"180\"></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -1790,7 +1790,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/1721602189623-Group_201.png",
+                    "url": "/static/templates/medical-equipment-discounts/assets/1721602189623-Group_201.png",
                     "width": 180,
                     "height": "auto"
                   }
@@ -1921,7 +1921,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_social_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:60px 10px 10px;font-family:'Raleway',sans-serif;\">\n<div align=\"center\" style=\"direction: ltr;\">\n<div style=\"display: table; max-width:167px;\">\n<!--[if (mso)|(IE)]><table width=\"167\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td style=\"border-collapse:collapse;\" align=\"center\"><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"border-collapse:collapse; mso-table-lspace: 0pt;mso-table-rspace: 0pt; width:167px;\"><tr><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_0c984410.bin\" target=\"_blank\" title=\"Facebook\">\n<img alt=\"Facebook\" src=\"assets/facebook.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Facebook\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_29d720c9.bin\" target=\"_blank\" title=\"LinkedIn\">\n<img alt=\"LinkedIn\" src=\"assets/linkedin.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"LinkedIn\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_9fd8adc6.bin\" target=\"_blank\" title=\"Instagram\">\n<img alt=\"Instagram\" src=\"assets/instagram.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Instagram\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 0px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 0px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_de62a5c7.bin\" target=\"_blank\" title=\"X\">\n<img alt=\"X\" src=\"assets/x.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"X\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->\n</div>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_social_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:60px 10px 10px;font-family:'Raleway',sans-serif;\">\n<div align=\"center\" style=\"direction: ltr;\">\n<div style=\"display: table; max-width:167px;\">\n<!--[if (mso)|(IE)]><table width=\"167\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td style=\"border-collapse:collapse;\" align=\"center\"><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"border-collapse:collapse; mso-table-lspace: 0pt;mso-table-rspace: 0pt; width:167px;\"><tr><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_0c984410.bin\" target=\"_blank\" title=\"Facebook\">\n<img alt=\"Facebook\" src=\"/static/templates/medical-equipment-discounts/assets/facebook.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Facebook\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_29d720c9.bin\" target=\"_blank\" title=\"LinkedIn\">\n<img alt=\"LinkedIn\" src=\"/static/templates/medical-equipment-discounts/assets/linkedin.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"LinkedIn\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_9fd8adc6.bin\" target=\"_blank\" title=\"Instagram\">\n<img alt=\"Instagram\" src=\"/static/templates/medical-equipment-discounts/assets/instagram.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Instagram\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 0px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 0px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_de62a5c7.bin\" target=\"_blank\" title=\"X\">\n<img alt=\"X\" src=\"/static/templates/medical-equipment-discounts/assets/x.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"X\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->\n</div>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -1952,7 +1952,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/facebook.png",
+                    "url": "/static/templates/medical-equipment-discounts/assets/facebook.png",
                     "width": 32,
                     "height": "auto"
                   }

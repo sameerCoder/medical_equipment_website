@@ -1881,7 +1881,7 @@
           "textColor": "",
           "backgroundColor": "",
           "backgroundImage": {
-            "url": "url(assets/1721602063426-Group_209.png)",
+            "url": "/static/templates/medical-equipment-discounts/assets/1721602063426-Group_209.png",
             "fullWidth": false,
             "repeat": false,
             "center": true,
@@ -1977,7 +1977,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_10\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 100px 30px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; color: #95a5a6; line-height: 170%; text-align: center; word-wrap: break-word;\">\n<p style=\"line-height: 170%;\">UNSUBSCRIBE &nbsp; | &nbsp; PRIVACY POLICY &nbsp; | &nbsp; WEB</p>\n<p style=\"line-height: 170%;\">&nbsp;</p>\n<p style=\"line-height: 170%;\">Experience significant savings on our comprehensive range of medical equipment. Secure your discount today!</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_10\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 100px 30px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; color: #95a5a6; line-height: 170%; text-align: center; word-wrap: break-word;\">\n<p style=\"line-height: 170%;\"><a href=\"{{unsubscribe_url}}\">UNSUBSCRIBE</a> &nbsp; | &nbsp; <a href=\"{{privacy_url}}\">PRIVACY POLICY</a> &nbsp; | &nbsp; <a href=\"{{webview_url}}\">WEB</a></p>\n<p style=\"line-height: 170%;\">&nbsp;</p>\n<p style=\"line-height: 170%;\">Experience significant savings on our comprehensive range of medical equipment. Secure your discount today!</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
